@@ -1,4 +1,4 @@
-# **📖 Step-by-Step Guide: Running the Backstage Template Demo **
+# 📖 Step-by-Step Guide: Running the Backstage Template Demo
 
 # 🛠 Preparing Your Repository for Backstage Software Templates
 
